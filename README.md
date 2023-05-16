@@ -1,4 +1,7 @@
-### Eai 👋
+### Olá, me chamo Rafael Lima👋
+<div>
+  <h1> Sobre mim <h1>
+    <h2> Faço Ciencia da Computação <h2>
 
 <!--
 **rafalimma/rafalimma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
