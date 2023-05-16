@@ -7,6 +7,9 @@
 🖥️ Aprendendo Back-end e Front-end <br>
 ⬅️Feeling good | Success ➡️
 
+## 📊 Minhas estatísticas do GitHub:
+
+![Rafael Lima's stats](https://github-readme-stats.vercel.app/api?username=rafalimma&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafalimma&exclude_repo=github-readme-stats,rafalimma.github.io&theme=radical)](https://github.com/rafalimma/github-readme-stats)
 
 <!--
 **rafalimma/rafalimma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
