@@ -1,5 +1,5 @@
 
-### <h1> Olá, me chamo Rafael Lima </h1>👋
+### <h1> Olá, me chamo Rafael Lima 🍵 </h1>
 ### Sobre mim ⤵️
 
 📚 Cursando Ciência da computação (UTP) <br>
