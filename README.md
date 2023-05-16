@@ -1,9 +1,11 @@
-### Olá, me chamo Rafael Lima👋
 
-## <h3>Sobre mim:</h3>
+### Olá, me chamo Rafael Lima👋
+### Sobre mim ⤵️
+
 📚 Cursando Ciência da computação (UTP) <br>
-    17 anos <br>
-    Aprendendo Back-end e Front-end <br>
+🧑‍💻 17 anos <br>
+🖥️ Aprendendo Back-end e Front-end <br>
+⬅️Feeling good | Success ➡️
 
 
 <!--
