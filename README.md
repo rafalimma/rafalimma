@@ -1,8 +1,10 @@
 ### Olá, me chamo Rafael Lima👋
-<div>
-  <h2> Sobre mim <h2>
-    
-</div>
+
+## Sobre mim:
+📚 Cursando Ciência da computação (UTP)
+    17 anos
+    Aprendendo Back-end e Front-end
+
 
 <!--
 **rafalimma/rafalimma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
