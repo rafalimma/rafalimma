@@ -7,7 +7,7 @@
 )](https://www.whatsapp.com/?lang=pt_BR)
 
 📚 Cursando Ciência da computação (UTP) <br>
-🧑‍💻 17 anos <br>
+🧑‍💻 18 anos <br>
 🖥️ Aprendendo Back-end e Front-end <br>
 ⬅️Feeling good | Success ➡️
 
