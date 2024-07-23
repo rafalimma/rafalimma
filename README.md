@@ -1,5 +1,5 @@
 
-### <h1> Eaii, Me chamo Rafael 🕴️ </h1>
+### <h1> Olá, Me chamo Rafael 🕶️ </h1>
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](rafaelglima79@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
