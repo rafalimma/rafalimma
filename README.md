@@ -15,7 +15,7 @@
 ## 📊 Minhas estatísticas do GitHub:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafalimma&exclude_repo=github-readme-stats,rafalimma.github.io&theme=radical)](https://github.com/rafalimma/github-readme-stats)
-(https://camo.githubusercontent.com/d941405f22b4623fa4d08a14faa8dc9036852aa503e405b73a46d912591d7e27/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d6272756e6f6772616e61266c6f63616c653d656e26686964655f7469746c653d66616c7365266c61796f75743d636f6d7061637426636172645f77696474683d333230266c616e67735f636f756e743d35267468656d653d67727576626f785f6c6967687426686964655f626f726465723d74727565266f726465723d32)
+![Rafa's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafalimma&show_icons=true&theme=tokyonight)
 <div style="display: inline_block"><br/>
    <img align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
    <img align="center" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
