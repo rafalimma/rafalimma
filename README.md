@@ -6,7 +6,7 @@
 )](https://www.linkedin.com/in/rafael-lima-62a547287/)
 ### About me ⤵️
 📚 Studying Computer Science (UTP) <br>
-🧑‍💻 18 years <br>
+🧑‍💻 19 years <br>
 🖥️ Interested in the web and data analysis <br>
 
 ## 📊 My Github stats:
