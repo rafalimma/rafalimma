@@ -11,10 +11,7 @@
 
 ## 📊 My Github stats:
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafalimma&show_icons=true&theme=radical&include_all_commits=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafalimma" height="150" alt="languages graph"  />
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafalimma)]
 
 ###
 
