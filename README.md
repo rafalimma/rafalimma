@@ -11,7 +11,7 @@
 
 ## 📊 My Github stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafalimma)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
 ###
 
