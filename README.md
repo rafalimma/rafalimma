@@ -4,15 +4,10 @@
 )](rafaelglima79@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/rafael-lima-62a547287/)
-### About me ⤵️
-📚 Studying Computer Science (UTP) <br>
-🧑‍💻 19 years <br>
-🖥️ Interested in the web and data analysis <br>
 
 ## 📊 My Github stats:
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rafalimma&hide=contribs,prs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafallima)
+![Rafa stats](https://github-readme-stats.vercel.app/api?username=rafalimma&show_icons=true&theme=cobalt) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafalimma&layout=compact&show_icons=true&theme=cobalt)
 
 ###
 
